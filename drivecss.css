@@ -1,0 +1,230 @@
+body {
+    font-family: Tahoma;
+    background: ;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header {
+    background: white;
+    padding: 0px 2px 3px 18px;
+    margin: 0px;
+    display: inline;
+}
+
+.left {
+    float: left;
+    margin-right: 8px;
+}
+
+.left2 {
+    margin-right: 492px;
+    color: gray;
+    font-size: 27px;
+}
+
+.space {
+    font-size: 17px;
+    margin-right: 20px;
+}
+
+.space2 {
+    margin-right: 18px;
+    color: gray;
+}
+
+.space3 {
+    background: rgb(67, 134, 252);
+    color: white;
+    padding: 35px 5px 20px 5px;
+    margin: 0px;
+}
+
+.bg1 {
+    background-image: url("bg2.jpg");
+    background-size: cover;
+    padding-bottom: 176px;
+}
+
+.down {
+    margin-top: 150px;
+    margin-bottom: 40px;
+}
+
+.text1 {
+    color: white;
+    text-decoration: none;
+    font-size: 48px;
+}
+
+.link {
+    background: rgb(67, 134, 252);
+    width: 138px;
+    color: white;
+    padding: 20px 15px 16px 20px;
+    margin-top: 30px;
+}
+
+
+/*2nd part of google drive */
+
+.bg2 {
+    background: white;
+    font-family: Open sans, sans-serif;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.leftpad {
+    margin-right: 150px;
+}
+
+.text2 {
+    color: rgb(64, 64, 64);
+    font-size: 52px;
+    text-decoration: none;
+}
+
+.min-text {
+    color: rgb(114, 111, 111);
+    font-size: 22px;
+}
+
+
+/* 3rd background */
+
+.bg3 {
+    background-image: url("bg3.jpg");
+    background-size: cover;
+    padding: 210px;
+}
+
+
+/* 4th background */
+
+.bg4 {
+    background: white;
+    padding-top: 100px;
+    padding-left: 200px;
+    padding-bottom: 100px;
+    width: 100%;
+}
+
+#l {
+    width: 48%;
+    float: left;
+}
+
+.r {
+    width: 52%;
+}
+
+.text4 {
+    color: rgb(64, 64, 64);
+    font-size: 48px;
+    font-family: "open sans", arial, sans-serif;
+}
+
+
+/* 5th background */
+
+.bg5 {
+    background-image: url("bg5.jpg");
+    background-size: cover;
+    padding: 180px;
+}
+
+
+/* 6th background */
+
+.bg6 {
+    background: white;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.text6 {
+    color: rgb(58, 53, 53);
+    font-size: 52px;
+}
+
+.s-text6 {
+    color: rgb(63, 58, 58);
+    font-size: 20px;
+    text-decoration: none;
+}
+
+
+/* 7th background */
+
+.bg7 {
+    background-image: url("bg7.jpg");
+    background-size: cover;
+    padding: 198px;
+}
+
+.bg8 {
+    background: white;
+    color: rgb(54, 50, 50);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.text8 {
+    font-size: 45px;
+}
+
+.link8 {
+    color: rgb(67, 134, 252);
+    margin-top: 10px;
+}
+
+.link8:hover {
+    text-decoration: underline;
+}
+
+
+/* 9th background */
+
+.bg9 {
+    background: lavender;
+}
+
+.bg9-s-r {
+    margin-right: 120px;
+    margin-left: 40px;
+}
+
+.un {
+    border-bottom: 1px solid gray;
+}
+
+.foot {
+    padding: 12px;
+}
+
+.bg9-f {
+    margin-left: 50px;
+}
+
+.fr {
+    margin-left: 100px;
+}
+
+.in {
+    display: inline-table;
+    border: 1px solid lavender;
+    float: left;
+    margin-left: 80px;
+}
+
+.last {
+    border-top: 1px solid rgb(197, 197, 235);
+    color: rgb(67, 134, 252);
+    padding: 8px;
+}
